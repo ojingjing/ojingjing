@@ -1,5 +1,5 @@
 ### 안녕 난 오정민
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wlddj14@naver.com&show_icons=true&theme=solarized-light)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ojingjing&show_icons=true&theme=solarized-light)
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=wlddj14)](https://solved.ac/wlddj14)
 
