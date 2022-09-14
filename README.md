@@ -1,4 +1,4 @@
-### Hi there 👋
+### 안녕 난 오정민
 
 <!--
 **ojingjing/ojingjing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
