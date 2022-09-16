@@ -3,6 +3,8 @@
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=wlddj14)](https://solved.ac/wlddj14)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ojingjing&layout=compact)](https://github.com/ojingjing/github-readme-stats)
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fojingjing&count_bg=%23EECCCC&title_bg=%238CC1EC&icon=counter-strike.svg&icon_color=%233C476B&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!--
