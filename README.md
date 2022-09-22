@@ -1,4 +1,7 @@
 ### 💗&#9420;&#9402;&#9409;&#9400;&#9412;m&#9402; &#9407;&#9410;'&#9416; &#9404;&#9406;&#9417; &#9405;Ⓤ&#9399;💗🎡
+
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+
 💙[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fojingjing&count_bg=%23EECCCC&title_bg=%238CC1EC&icon=counter-strike.svg&icon_color=%233C476B&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=wlddj14)](https://solved.ac/wlddj14)🔸
 
